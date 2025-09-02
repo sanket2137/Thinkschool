@@ -1,15 +1,40 @@
-Learned VS Code fundamentals: UI, Command Palette, Settings Sync.
+Lab: VS Code + Git + HTML Profile Page
+Overview
 
-Installed and configured Prettier, Live Server, ESLint.
+This lab covers setting up VS Code, configuring essential extensions, practicing Git fundamentals, and building a semantic HTML profile page.
 
-Created .vscode/settings.json with Prettier config.
+VS Code Setup
 
-Practiced Git basics: init, commit, .gitignore, log, diff, restore.
+Learned UI, Command Palette, Settings Sync
 
-Set user.name, user.email, branch = main.
+Installed & configured extensions:
 
-Added commit convention link to README.
+Prettier (code formatting)
 
-Built HTML semantic profile page, validated with W3C.
+Live Server (real-time preview)
 
-Pushed lab to private GitHub repo and invited reviewer.
+ESLint (linting)
+
+Created .vscode/settings.json with Prettier config
+
+Git Basics
+
+Initialized repo (git init)
+
+Configured user: user.name, user.email, branch = main
+
+Practiced commands: commit, .gitignore, log, diff, restore
+
+Added commit convention link in README
+
+HTML Project
+
+Built semantic profile page (header, main, footer, sections, etc.)
+
+Validated with W3C Validator
+
+GitHub
+
+Pushed lab to private repo
+
+Invited reviewer for feedback
